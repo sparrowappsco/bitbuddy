@@ -9,14 +9,14 @@ Ideal for content creators, photographers, and filmmakers, Bit Buddy contains ev
 
 ## Preview
 <p align="center">
-  <img src=".Assets/App Store 1.jpg" height="300" /> 
-  <img src="./App Store 2.jpg" height="300" /> 
-  <img src="./App Store 3.jpg" height="300" />
+  <img src="./Assets/App Store 1.jpg" height="300" /> 
+  <img src="./Assets/App Store 2.jpg" height="300" /> 
+  <img src="./Assets/App Store 3.jpg" height="300" />
 </p>
 <p align="center">
-   <img src="./App Store 4.jpg" height="300" />
-  <img src="./App Store 5.jpg" height="300" />
-  <img src="./App Store 6.jpg" height="300" />
+   <img src="./Assets/App Store 4.jpg" height="300" />
+  <img src="./Assets/App Store 5.jpg" height="300" />
+  <img src="./Assets/App Store 6.jpg" height="300" />
 </p>
 
 ## Bit Buddy Features
