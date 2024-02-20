@@ -9,7 +9,7 @@ Ideal for content creators, photographers, and filmmakers, Bit Buddy contains ev
 
 ## Preview
 <p align="center">
-  <img src="./App Store 1.jpg" height="300" /> 
+  <img src=".Assets/App Store 1.jpg" height="300" /> 
   <img src="./App Store 2.jpg" height="300" /> 
   <img src="./App Store 3.jpg" height="300" />
 </p>
