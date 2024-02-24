@@ -5,7 +5,7 @@ Easily add, view, and manage your external and network-attached devices with Bit
 
 Ideal for content creators, photographers, and filmmakers, Bit Buddy contains everything you need to accurately, quickly, and securely log your external hard drives, SSDs, computers, game consoles, and more!
 
- [Download on the App Store]()
+ [Download on the App Store](https://apps.apple.com/us/app/bit-buddy/id6478040971)
 
 ## Preview
 <p align="center">
