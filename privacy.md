@@ -1,5 +1,5 @@
 # Privacy Policy
-### Last updated: Feb. 20, 2024 @ 3:15 PM EST.
+### Last updated: Feb. 23, 2024 @ 9:43 PM EST.
 Thank you for choosing Bit Buddy. We are committed to protecting your privacy and ensuring you have a positive experience on our app. This privacy policy outlines the various ways Bit Buddy uses and protects your information.
 
 ## Overview
@@ -10,11 +10,6 @@ Information stored within Bit Buddy remains entirely on the user's (you) device.
 
 If you experience a crash, Apple may send device-related information to us, Sparrow Apps, to help better understand the cause of the crash, and how to fix it. This information may include the device model, software (iOS/iPadOS) version, app version, the date and time, and the 
 action that led to the crash.
-
-## Third-Party Advertisements
-Bit Buddy features the use of third-party advertisements in select portions of the app. These advertisements are implemented in a way that does not affect the performance of the app, nor do they hinder the appearance/functionality of anything within the app. Advertisements are provided by Google Admob, a mobile advertising platform designed by Google. These advertisements collect various forms of information from your device. To show advertisements that are relevant to you, Admob uses the device's advertising ID to serve personalized ads based on the user's interests. Users can read more about Google Admob's policies by following this link: https://policies.google.com/privacy
-
-Users have the option to remove these advertisements from Bit Buddy by purchasing "Ad-Free," an in-app purchase provided to users via the App Store. If purchased, your device will no longer be served third-party advertisements, and the forms of information collected above will cease to occur.
 
 ## Privacy & Security
 Bit Buddy, and the information stored within, live entirely on your device. There is no cloud or third-party storage connection.
