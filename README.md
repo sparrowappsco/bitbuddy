@@ -1,5 +1,5 @@
 # Bit Buddy
-### Your drives. At a glance.
+### Your drives. _At a glance._
 
 Easily add, view, and manage your external and network-attached devices with Bit Buddy!
 
@@ -13,6 +13,8 @@ Ideal for content creators, photographers, and filmmakers, Bit Buddy contains ev
   <img src="./Assets/2.PNG" height="300" /> 
   <img src="./Assets/3.PNG" height="300" />
     <img src="./Assets/4.PNG" height="300" />
+ <p>
+  <p align="center">
   <img src="./Assets/5.PNG" height="300" />
   <img src="./Assets/6.PNG" height="300" />
  <img src="./Assets/7.PNG" height="300" />
