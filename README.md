@@ -33,6 +33,9 @@ Ideal for content creators, photographers, and filmmakers, Bit Buddy contains ev
 - Biometric authentication, Secure Wipe, and much more!
 
 ## Support
+> [!NOTE]
+**The soon-to-be released _Version 1.1.5_ update may cause your previously saved devices to be erased. This is due to our new widgets that will also be available with _Version 1.1.5_. We apologize for the inconvenience.**
+
 If you experience any issues concerning application functionality, try these troubleshooting tips.
 
 **1. Information Not Loading**
@@ -42,6 +45,8 @@ If you experience any issues concerning application functionality, try these tro
    To edit a previously saved device, tap into the device and press the "Edit" icon in the upper right corner. When pressed, a new view will appear, allowing for edits to the following information: Name, Capacity, Content Type, Color, Icon, Favorite status, and Network-Attached status. Location editing is not available to edit as of Version 1.1.0.
 
    When adding Additional Information in the detailed device view, the "Edit" button will change to a checkmark. This button, when pressed, will commit any information stored in the Additional Information field. New information added in this field will be saved automatically, however, deleting information will not. In order to save the deletion, users will need to press the checkmark button. This is due to the nature of the Additional Information field.
+
+   If the Stats Widget on your home screen doesn't display accurate statistics about your devices, try these steps: Firstly, quit the app and remove the widget, then reopen the app and re-add the widget. If this doesn't work, quit the app, remove the widget, restart your device, reopen the app, and then re-add the widget. If the issue still persists, you'll need to perform a Secure Wipe and re-enter your devices. We understand this process may be inconvenient, but it's necessary due to how information is stored within Bit Buddy. If the widget still isn't functioning correctly after attempting these steps, please use the 'Report a Bug' button in the app's Settings pane.
 
    **2. Appearance/Icon Switching**
 
