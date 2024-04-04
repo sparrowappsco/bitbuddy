@@ -36,7 +36,7 @@ Ideal for content creators, photographers, and filmmakers, Bit Buddy contains ev
 
 ## Support
 > [!NOTE]
-**The soon-to-be released _Version 1.1.5_ update may cause your previously saved devices to be erased. This is due to our new widgets that will also be available with _Version 1.1.5_. We apologize for the inconvenience.**
+**_Version 1.1.5_ update may cause your previously saved devices to be erased. This is due to our new widgets that will also be available with _Version 1.1.5_. We apologize for the inconvenience.**
 
 If you experience any issues concerning application functionality, try these troubleshooting tips.
 
