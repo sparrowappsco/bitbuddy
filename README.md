@@ -14,13 +14,8 @@ Ideal for content creators, photographers, and filmmakers, Bit Buddy contains ev
   <img src="./Assets/Version 1.1.5/3.png" height="300" />
     <img src="./Assets/Version 1.1.5/4.png" height="300" />
  <img src="./Assets/Version 1.1.5/5.png" height="300" />
- <p>
-  <p align="center">
-  <img src="./Assets/Version 1.1.5/6.png" height="300" />
+   <img src="./Assets/Version 1.1.5/6.png" height="300" />
   <img src="./Assets/Version 1.1.5/8.png" height="300" />
- <img src="./Assets/Version 1.1.5/7.png" height="300" />
- <img src="./Assets/Version 1.1.5/10.png" height="300" />
-   <img src="./Assets/Version 1.1.5/9.png" height="300" />
 </p>
 
 ## Bit Buddy Features
