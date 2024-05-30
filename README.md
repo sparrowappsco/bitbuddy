@@ -30,8 +30,6 @@ Ideal for content creators, photographers, and filmmakers, Bit Buddy contains ev
 - Biometric authentication, Secure Wipe, and much more!
 
 ## Support
-> [!NOTE]
-**_Version 1.1.5_ update may cause your previously saved devices to be erased. This is due to our new widgets that will also be available with _Version 1.1.5_. We apologize for the inconvenience.**
 
 If you experience any issues concerning application functionality, try these troubleshooting tips.
 
@@ -47,11 +45,11 @@ If you experience any issues concerning application functionality, try these tro
 
    **2. Appearance/Icon Switching**
 
-   Version 1.1.0 brings the ability to select a desired color scheme for Bit Buddy. This is done by navigating to the Settings tab, clicking into the newly added Appearance option, and selecting the color scheme. By default, Bit Buddy inherits the system setting (if your phone is in Dark Mode, Bit Buddy will be in Dark Mode).
+   You can toggle between appearance modes in Bit Buddy. This is done by clicking '**Bit Buddy**' atop the Dashboard, clicking into the Appearance option, and selecting the color scheme. By default, Bit Buddy inherits the system setting (if your phone is in Dark Mode, Bit Buddy will be in Dark Mode).
 
    Bit Buddy features several alternate icons that **all** users can choose from. If you select an alternate icon and it doesn't update, please restart your device. This is believed to be a bug within the current verison of iOS. If restarting your device doesn't work, please use the "Report a Bug" button found in the Settings tab, or contact us directly at support@bitbuddyapp.co
 
-   Version 1.1.0 also brings a new form of navigation. The new tab bar is designed to present information in a way that feels less cluttered. If navigation does not work as expected, please quit the app (swipe up from multitasking), and reopen. If quitting Bit Buddy doesn't work, please use the "Report a Bug" button found in the Settings tab, or contact us directly at support@bitbuddyapp.co
+   Navigating Bit Buddy is simple. In the Dashboard, there are three buttons along the top of the app. The graduation cap takes you to Tips, a list of curated guides to better manage your external devices. To the right is Sort, which allows you to personalize your list layout. The last button is 'Bit Buddy' at the top. Clicking this text will present users with Settings, and other useful features. To add a device, click the floating button along the bottom left of Bit Buddy's interface. If navigation does not work as expected, please quit the app (swipe up from multitasking), and reopen. If quitting Bit Buddy doesn't work, please use the "Report a Bug" button found in the Settings tab, or contact us directly at support@bitbuddyapp.co
    
 **3. Biometric Authentication**
    
