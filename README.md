@@ -41,6 +41,8 @@ If you experience any issues concerning application functionality, try these tro
 
    When adding Additional Information in the detailed device view, the "Edit" button will change to a checkmark. This button, when pressed, will commit any information stored in the Additional Information field. New information added in this field will be saved automatically, however, deleting information will not. In order to save the deletion, users will need to press the checkmark button. This is due to the nature of the Additional Information field.
 
+   Version 2.0 introduces cloud providers to the Settings. Cloud providers, when chosen, will populate in the third page of the Stats Widgets within the main device list. **If the cloud providers do not appear, or their links do not work, please perform a Secure Wipe and close the app entirely before trying again.**
+
    If the Stats Widget on your home screen doesn't display accurate statistics about your devices, try these steps: Firstly, quit the app and remove the widget, then reopen the app and re-add the widget. If this doesn't work, quit the app, remove the widget, restart your device, reopen the app, and then re-add the widget. If the issue still persists, you'll need to perform a Secure Wipe and re-enter your devices. We understand this process may be inconvenient, but it's necessary due to how information is stored within Bit Buddy. If the widget still isn't functioning correctly after attempting these steps, please use the 'Report a Bug' button in the app's Settings pane.
 
    **2. Appearance/Icon Switching**
