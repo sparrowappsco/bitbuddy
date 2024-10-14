@@ -1,6 +1,9 @@
 # Bit Buddy
 ### Your drives. _At a glance._
 
+> [!Important]  
+> The latest version of Bit Buddy, Version 2.1 (released October 14, 2024), may result in your previously saved information being erased. We apologize for the inconvenience this has caused (both times).
+
 Easily add, view, and manage your external and network-attached devices with Bit Buddy!
 
 Ideal for content creators, photographers, and filmmakers, Bit Buddy contains everything you need to accurately, quickly, and securely log your external hard drives, SSDs, computers, game consoles, and more!
@@ -9,13 +12,13 @@ Ideal for content creators, photographers, and filmmakers, Bit Buddy contains ev
 
 ## Preview
 <p align="center">
-  <img src="./Assets/Version 1.3/1.png" height="300" /> 
-  <img src="./Assets/Version 1.3/2.png" height="300" /> 
-  <img src="./Assets/Version 1.3/3.png" height="300" />
-    <img src="./Assets/Version 1.3/4.png" height="300" />
- <img src="./Assets/Version 1.3/7.png" height="300" />
-   <img src="./Assets/Version 1.3/8.png" height="300" />
-<img src="./Assets/Version 1.3/5.png" height="300" />
+  <img src="./Assets/Version 2/1.png" height="300" /> 
+  <img src="./Assets/Version 2/2.png" height="300" /> 
+  <img src="./Assets/Version 2/3.png" height="300" />
+    <img src="./Assets/Version 2/4.png" height="300" />
+ <img src="./Assets/Version 2/7.png" height="300" />
+   <img src="./Assets/Version 2/8.png" height="300" />
+<img src="./Assets/Version 2/5.png" height="300" />
 </p>
 
 ## Bit Buddy Features
