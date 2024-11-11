@@ -20,6 +20,8 @@ Bit Buddy, and the information stored within, live entirely on your device. Ther
 
 Bit Buddy features the use of Biometric Authentication to prevent unauthorized access to your stored information. This Biometric Authentication relies on users being enrolled in Face/Touch-ID on their device. Bit Buddy does not have access to face or fingerprint scans. Users always have the option to revoke Biometric Authentication (labeled as Biometrics within Bit Buddy) on an app-level or system level. To remove all access to device biometrics, go to the Settings app on your device, scroll to Bit Buddy, and uncheck the toggle marked "Face/Touch-ID."
 
+Bit Buddy uses TelemetryDeck to collect anonymized usage data. This helps us understand how our users are using our app and how we can improve it. TelemetryDeck does not collect any personally identifiable information. You can read more about TelemetryDeck’s privacy policy at https://telemetrydeck.com/privacy
+
 ## Links
 
 Bit Buddy may contain links to other websites within the Settings pane. Clicking on any of these links will open a third-party link. These websites are not operated by Sparrow Apps or Bit Buddy, and their privacy policies can be extremely different from those of Sparrow Apps/Bit Buddy. It is recommended that users familiarize themselves with the privacy policy of these websites.
