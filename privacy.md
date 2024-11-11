@@ -1,6 +1,6 @@
 # Privacy Policy
 
-### Last updated: May 30, 2024 @ 7:33 PM EST
+### Last updated: November 11, 2024 @ 2:57 PM EST
 
 Thank you for choosing Bit Buddy. We are committed to protecting your privacy and ensuring you have a positive experience on our app. This privacy policy outlines the various ways Bit Buddy uses and protects your information.
 
