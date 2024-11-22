@@ -12,13 +12,13 @@ Ideal for content creators, photographers, and filmmakers, Bit Buddy contains ev
 
 ## Preview
 <p align="center">
-  <img src="./Assets/Version 2.0/1.png" height="300" /> 
-  <img src="./Assets/Version 2.0/2.png" height="300" /> 
-  <img src="./Assets/Version 2.0/3.png" height="300" />
-    <img src="./Assets/Version 2.0/4.png" height="300" />
- <img src="./Assets/Version 2.0/7.png" height="300" />
-   <img src="./Assets/Version 2.0/8.png" height="300" />
-<img src="./Assets/Version 2.0/5.png" height="300" />
+  <img src="./Assets/Version 2.5/1.png" height="300" /> 
+  <img src="./Assets/Version 2.5/2.png" height="300" /> 
+  <img src="./Assets/Version 2.5/3.png" height="300" />
+    <img src="./Assets/Version 2.5/4.png" height="300" />
+ <img src="./Assets/Version 2.5/10.png" height="300" />
+   <img src="./Assets/Version 2.5/6.png" height="300" />
+<img src="./Assets/Version 2.5/9.png" height="300" />
 </p>
 
 ## Bit Buddy Features
@@ -32,13 +32,23 @@ Ideal for content creators, photographers, and filmmakers, Bit Buddy contains ev
 - A selection of gorgeous alternate icons
 - Biometric authentication, Secure Wipe, and much more!
 
-## Support
+## Bit Buddy "Pro"
+
+Bit Buddy "Pro" is a one-time in-app purchase that unlocks the following features: SD Card Pool, Super Clean, additional app icons and gradients, and priority support. Bit Buddy "Pro" is available for $0.99 USD. Bit Buddy "Pro" is a one-time purchase and does not expire. Bit Buddy "Pro" is tied to your Apple ID and can be restored on any device that uses the same Apple ID. Bit Buddy "Pro" is not transferable between different Apple IDs. Bit Buddy "Pro" is not available for Family Sharing.
+
+Bit Buddy "Pro" members also receive lifetime updates to all upcoming Bit Buddy "Pro" features at no additional cost. Bit Buddy "Pro" members can restore their purchase at any time by clicking the "Restore Purchase" button in the Bit Buddy "Pro" section of the Settings menu.
+
+If you have any questions about Bit Buddy "Pro", or encounter any trouble purchasing or restoring your purchase, please contact us at support@bitbuddyapp.co.
+
+## Application Support
 
 If you experience any issues concerning application functionality, try these troubleshooting tips.
 
 **1. Information Not Loading**
    
    If your information isn't loading properly within Bit Buddy, try quitting the app and reopening it.
+   
+   If previously and newly saved SD card devices aren't appearing, ensure that SD Card Pool is turned off in the Settings menu by clicking 'Bit Buddy' atop the navigation bar (top of the screen). With SD Card Pool enabled, all SD Card devices are moved into the SD Card Pool and no longer appear in your main device list. SD Card Pool can be enabled and disabled at any time in the Settings menu. SD Card Pool requires Bit Buddy "Pro."
 
    To edit a previously saved device, tap into the device and press the "Edit" icon in the upper right corner. When pressed, a new view will appear, allowing for edits to the following information: Name, Capacity, Content Type, Color, Icon, Favorite status, and Network-Attached status. Location editing is not available to edit as of Version 1.1.0.
 
@@ -52,7 +62,7 @@ If you experience any issues concerning application functionality, try these tro
 
    You can toggle between appearance modes in Bit Buddy. This is done by clicking '**Bit Buddy**' atop the Dashboard, clicking into the Appearance option, and selecting the color scheme. By default, Bit Buddy inherits the system setting (if your phone is in Dark Mode, Bit Buddy will be in Dark Mode).
 
-   Bit Buddy features several alternate icons that **all** users can choose from. If you select an alternate icon and it doesn't update, please restart your device. This is believed to be a bug within the current verison of iOS. If restarting your device doesn't work, please use the "Report a Bug" button found in the Settings tab, or contact us directly at support@bitbuddyapp.co
+   Bit Buddy features several alternate icons that users can choose from. If you select an alternate icon and it doesn't update, please restart your device. This is believed to be a bug within the current verison of iOS. If restarting your device doesn't work, please use the "Report a Bug" button found in the Settings tab, or contact us directly at support@bitbuddyapp.co
 
    Navigating Bit Buddy is simple. In the Dashboard, there are three buttons along the top of the app. The graduation cap takes you to Tips, a list of curated guides to better manage your external devices. To the right is Sort, which allows you to personalize your list layout. The last button is 'Bit Buddy' at the top. Clicking this text will present users with Settings, and other useful features. To add a device, click the floating button along the bottom left of Bit Buddy's interface. If navigation does not work as expected, please quit the app (swipe up from multitasking), and reopen. If quitting Bit Buddy doesn't work, please use the "Report a Bug" button found in the Settings tab, or contact us directly at support@bitbuddyapp.co
    
@@ -72,6 +82,12 @@ If you experience any issues concerning application functionality, try these tro
 
 Bit Buddy allows users to enter an address/location for each device. This location is only used to show the Map view found in the expanded device view (clicking into a saved device). This location information is not made available to Bit Buddy, nor is any information transmitted to Bit Buddy or its developer. Adding an address is optional and users will never be forced to add one.
 
-  **6. Other Concerns/Issues**
+  **6. App Analytics**
+
+Bit Buddy features app analytics to better understand how users interact with the app. This information is used to improve the app and provide a better experience for all users. Bit Buddy uses TelemetryDeck for its analytics. Information collected is not shared with any third-party services, nor is it used for any other purpose than to improve Bit Buddy. Information cannot be used to identify you, your device, or the actions you take in Bit Buddy. If you have any questions about the analytics used in Bit Buddy, please contact us at support@bitbuddyapp.co or visit TelemetryDeck's website at https://telemetrydeck.com.
+
+  **7. Other Concerns/Issues**
 
   If none of the above steps helped with your specific problem, users can contact us at support@bitbuddyapp.co, or use the "Report a Bug" button within the Settings pane of Bit Buddy. All correspondence from Bit Buddy will come from a domain with '@bitbuddy.co' at the end.
+
+**Updated November 21, 2024**
